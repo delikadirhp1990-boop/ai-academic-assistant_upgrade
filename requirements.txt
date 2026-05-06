@@ -1,0 +1,15 @@
+PyQt5>=5.15
+PyQtWebEngine>=5.15
+sympy>=1.12
+numpy>=1.24
+matplotlib>=3.7
+textstat>=0.7
+language-tool-python>=2.7
+ollama>=0.1.0
+openai>=0.28
+markdown>=3.4
+PyPDF2>=3.0
+keybert>=0.7
+python-docx>=0.8
+scholarly>=1.7
+html2docx>=0.1
